@@ -437,12 +437,16 @@ transition: none;
 .gallery-container {
 position: relative;
 z-index: 5;
-width: min(90vw, 400px);
-height: min(75vh, 600px);
+width: 90vw;
+max-width: 400px;
+height: 70vh;
+max-height: 550px;
 border-radius: 16px;
 overflow: hidden;
 box-shadow: 0 0 60px rgba(196,77,255,0.15), 0 0 120px rgba(255,107,157,0.08);
+background: #111; /* Fallback background if photo is missing */
 }
+
 
 .gallery-slide {
 position: absolute;
