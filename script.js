@@ -264,7 +264,7 @@ You scold me, guide me, and quietly care,With a mother's warmth that's always th
 
 If I forget to say it every day,Know these words have never drifted away:I'm blessed beyond measure, it's true—Life's greatest gift was a sister like you.\n\nInstead of writing just another 'Happy Birthday' comment, I wanted to create something a little different — a small website made with time, effort, and genuine respect.\n\n May your birthday bloom with endless light,May every dream take its joyful flight.May laughter follow wherever you go,And may your heart forever glow.
 
-Happy Birthday, Didi.No matter how much we argue, no matter how much we tease,My love, respect, and gratitude for you will only grow with the years.I love you more than words can ever say. ❤️\n\n
+Happy Birthday, Didi.No matter how much we argue, no matter how much we tease,My love, respect, and gratitude for you will only grow with the years.I love you more than words can ever say. ❤️`;
 function startTypewriter() {
   letterBody.innerHTML = '';
   letterCursor.style.display = 'inline-block';
