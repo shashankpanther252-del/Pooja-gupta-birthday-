@@ -258,8 +258,13 @@ gallerySection.addEventListener('touchend', function(e) {
 }, { passive: true });
 
 /* ===== TYPEWRITER LETTER ===== */
-const letterText = `Dear Richa,\n\nHappy Birthday!\n\nWe have never met, and you don't know me personally. That is completely okay.\n\nInstead of writing just another 'Happy Birthday' comment, I wanted to create something a little different — a small website made with time, effort, and genuine respect.\n\nYour journey has inspired me to work harder toward my own goals.\n\nOne moment that stayed with me was the interview where your father kissed you on the head and praised you. It reflected a beautiful bond and was genuinely heartwarming to watch.\n\nI have admired your performances since Mahabharat and I have also enjoyed watching your dance videos over the years.\n\nI simply hope this little surprise brings a smile to your face on your special day.\n\nWishing you happiness, good health, success, and many memorable moments ahead.\n\nA small birthday gift from Shashank Gupta ❤️`;
+const letterText = `TO MY DEAREST POOJA DIDI,\n\nHappy Birthday!\n\nWe quarrel like thunder meeting the sky,Yet our bond never asks the reason why.Every little fight fades with time,Leaving behind memories more precious than rhyme.
 
+You scold me, guide me, and quietly care,With a mother's warmth that's always there.In your love, I found a second home,A place where my heart is never alone.
+
+If I forget to say it every day,Know these words have never drifted away:I'm blessed beyond measure, it's true—Life's greatest gift was a sister like you.\n\nInstead of writing just another 'Happy Birthday' comment, I wanted to create something a little different — a small website made with time, effort, and genuine respect.\n\n May your birthday bloom with endless light,May every dream take its joyful flight.May laughter follow wherever you go,And may your heart forever glow.
+
+Happy Birthday, Didi.No matter how much we argue, no matter how much we tease,My love, respect, and gratitude for you will only grow with the years.I love you more than words can ever say. ❤️\n\n
 function startTypewriter() {
   letterBody.innerHTML = '';
   letterCursor.style.display = 'inline-block';
